@@ -12,7 +12,7 @@ int main()
     std::string Country = "Germany";
     bool isStudent = true;
     std::string University = "HSNR";
-    std::string FavoriteLanguage = "cpp";
+    std::string FavoriteLanguage = "Lua";
     std::string Languages[] = { "German","English","Turkish","Spanish" };
     
     // Programming Languages
