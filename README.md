@@ -1,16 +1,33 @@
-### Hi there 👋
+# My Stack
 
-<!--
-**yavuzse/yavuzse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cpp
+std::stack<std::string> ProgrammingLanguages;
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+int main()
+{
+    // User Info
+    std::string Name = "Yavuz Selim";
+    int Age = 21;
+    std::string Country = "Germany";
+    bool isStudent = true;
+    std::string University = "HSNR";
+    std::string FavoriteLanguage = "cpp";
+    std::string Languages[] = { "German","English","Turkish","Spanish" };
+    // Languages
+
+    ProgrammingLanguage.push("C++");
+    ProgrammingLanguage.push("C");
+    ProgrammingLanguage.push("C#");
+    ProgrammingLanguage.push("Assembly");
+    ProgrammingLanguage.push("Java");
+    ProgrammingLanguage.push("Kotlin");
+    return 0;
+}
+```
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yavuzse&count_private=true&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzse&count_private=true&langs_count=30&layout=compact)](https://github.com/OutOfBoundCats/github-readme-stats)
+
+#### Thank you for the visit.
+![](http://profile-counter.glitch.me/yavuzse/count.svg)
