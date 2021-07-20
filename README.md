@@ -16,12 +16,17 @@ int main()
     std::string Languages[] = { "German","English","Turkish","Spanish" };
     
     // Programming Languages
+    ProgrammingLanguage.push("Lua");    // Its Script Language I know
     ProgrammingLanguage.push("C++");
     ProgrammingLanguage.push("C");
     ProgrammingLanguage.push("C#");
     ProgrammingLanguage.push("Assembly");
     ProgrammingLanguage.push("Java");
+    
+    // Languages I want to learn
     ProgrammingLanguage.push("Kotlin");
+    ProgrammingLanguage.push("Dart");
+    ProgrammingLanguage.push("Swift");
     return 0;
 }
 ```
