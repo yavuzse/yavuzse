@@ -6,7 +6,7 @@ std::stack<std::string> ProgrammingLanguages;
 
 int main()
 {
-    // User Info
+    // Who am I?
     std::string Name = "Yavuz Selim";
     int Age = 21;
     std::string Country = "Germany";
@@ -14,8 +14,8 @@ int main()
     std::string University = "HSNR";
     std::string FavoriteLanguage = "cpp";
     std::string Languages[] = { "German","English","Turkish","Spanish" };
-    // Languages
-
+    
+    // Programming Languages
     ProgrammingLanguage.push("C++");
     ProgrammingLanguage.push("C");
     ProgrammingLanguage.push("C#");
