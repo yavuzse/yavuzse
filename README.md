@@ -8,11 +8,11 @@ int main()
 {
     // Who am I?
     std::string Name = "Yavuz Selim";
-    int Age = 21;
+    int Age = 25;
     std::string Country = "Germany";
     bool isStudent = true;
     std::string University = "HSNR";
-    std::string FavoriteLanguage = "Lua";
+    std::string FavoriteLanguage = "Python";
     std::string Languages[] = { "German","English","Turkish","Spanish" };
     
     // Programming Languages
@@ -22,6 +22,7 @@ int main()
     ProgrammingLanguage.push("C#");
     ProgrammingLanguage.push("Assembly");
     ProgrammingLanguage.push("Java");
+    ProgrammingLanguage.push("Python");
     
     // Languages I want to learn
     ProgrammingLanguage.push("Kotlin");
